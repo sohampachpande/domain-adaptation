@@ -1,0 +1,1 @@
+all args = Namespace(gpu_id='0', dataset='office31', source='amazon', target='webcam', lr=0.03, max_iteration=6050, out_dir='dann_v1', batch_size=32, data_dir='C:/Program Files/Git/datasets/cs252d-sp22-a00-public/hw4_data/office31', total_classes=31, test_10crop=False, test_iter=2000, resnet=50, bn_dim=256, method='DANN', adv_loss=1.0, ramp_up=True)
